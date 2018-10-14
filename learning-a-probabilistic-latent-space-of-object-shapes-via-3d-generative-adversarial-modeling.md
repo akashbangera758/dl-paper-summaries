@@ -1,14 +1,3 @@
----
-layout: post
-title: "Learning a Probabilistic Latent Space of Object Shapes via 3D Generative Adversarial Modeling"
-permalink: learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling
-date: 2018-10-14
-comments: false
-description: "Learning a Probabilistic Latent Space of Object Shapes via 3D Generative Adversarial Modeling"
-keywords: "3D-GAN, 3D-VAE-GAN, summary, Generative Adversarial Nets, GAN, Generative models, Adversarial models"
-category: summary
----
-
 <a href="http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf" target="_blank">Link to the paper</a>
 
 <h2>Contribution</h2>
